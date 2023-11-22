@@ -1,3 +1,0 @@
-//creating trip
-
-create api to get list of trips create api for book trip for user
