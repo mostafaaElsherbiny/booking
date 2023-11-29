@@ -4,6 +4,7 @@
 this project was developed using laravel 10 and sail 
 you can run it using docker by running the next command
 ```bash
+composer install
 ./vendor/bin/sail up -d
 
 composer install 
